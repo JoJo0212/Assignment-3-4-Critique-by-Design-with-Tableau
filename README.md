@@ -5,4 +5,5 @@ The task entails selecting a data visualization, thoroughly critiquing its desig
 
 The data I selected is about [Meat Production in Germany](https://www.destatis.de/EN/Press/2023/02/PE23_051_413.html). 
 And here is the original table
+
 <img src="MeatProduction.png" width="200"/>
