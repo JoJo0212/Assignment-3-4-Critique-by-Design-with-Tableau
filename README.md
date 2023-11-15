@@ -33,6 +33,7 @@ The second version is designed to provide a comprehensive view of the changing t
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 This is the first version of the improved visulization, I interviewed two people for advice on this side by side barchart.
 ### Feedback on draft 1
 
@@ -99,8 +100,11 @@ The classmates that were discussing with me said that the updated version defina
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 In the final iteration of my project, I chose to use a line graph for its ability to offer a clearer representation of trends over time. Line graphs effectively illustrate the progression or variation of data points along a timeline. The simplicity of this format is particularly advantageous, preventing visual clutter that can arise when dealing with extensive datasets spanning 23 years and three types of meat. This streamlined visualization enhances the audience's ability to discern meaningful patterns in the data. To address the challenge of immediately understanding the overall trend in meat production, I added a line representing the sum of all three meat types.
 
 To improve visibility, I adjusted the placement of data points on the line graph, and marked some important data of the years that the article mentioned, ensuring a clearer distinction between them. Additionally, I included a concise paragraph at the top of the chart summarizing key insights from the article. This serves as a helpful guide for readers interested in quickly grasping the main points before delving into the details presented in the graph.
 
 Furthermore, I encountered discrepancies in the original data from the source, where modified numbers (e.g., "2000=100") were provided. Presuming this to represent 2000kg as 100, I corrected the data to reflect the actual weight of the meat and converted the unit from kilograms to tonnes for a more transparent and accurate representation.
+
+
